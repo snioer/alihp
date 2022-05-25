@@ -2,7 +2,7 @@
 
 
 ## Deploy alist to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)1
 
 Use heroku's add-on postgres database, your settings will be persistent, don't worry about hibernate losing configuration.
 
